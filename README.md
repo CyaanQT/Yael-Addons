@@ -3,6 +3,7 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
 
 THIS MODULE IS USE AT YOUR OWN RISK<br>
 THESE FEATURES WILL NOT BAN YOU, BUT THEY ARE NOT ALLOWED ON HYPIXEL<br>
+THIS IS CONSIDERED A CHEAT FOR HYPIXEL SKYBLOCK <br>
 
 # Features:
 - Auto goldor phase
@@ -16,7 +17,7 @@ THESE FEATURES WILL NOT BAN YOU, BUT THEY ARE NOT ALLOWED ON HYPIXEL<br>
 - Wither ESP (Boss ESP)
 - Pet keybinds
 - Core/ middle timers
-- Autoroutes (WIP)<br>
+- Autoroutes (WIP)
  and more!
 
 # How to use:
